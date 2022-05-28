@@ -14,7 +14,7 @@
 	<name>miPortfolioWeb</name>
 	<description>Mi portfolio web de Argentina Programa</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
